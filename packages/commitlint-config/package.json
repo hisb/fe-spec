@@ -16,8 +16,12 @@
   "scripts": {
     "test": "node ./__tests__/commitlint-config.test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisb/fe-spec.git"
+  },
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com"
+    "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^10.2.1"
