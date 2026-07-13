@@ -1,0 +1,15 @@
+0 silly argv {
+0 silly argv   _: [ 'create' ],
+0 silly argv   lernaVersion: '9.0.7',
+0 silly argv   '$0': 'lerna',
+0 silly argv   name: 'commitlint-config'
+0 silly argv }
+1 notice cli v9.0.7
+2 verbose packageConfigs Package manager "pnpm" detected. Resolving packages using `pnpm-workspace.yaml`.
+3 verbose rootPath /Users/caiyaling/cyl/demo/custom-lint
+4 error Error: Command failed with exit code 1: git config --get user.name
+4 error     at makeError (/Users/caiyaling/cyl/demo/custom-lint/node_modules/.pnpm/execa@5.0.0/node_modules/execa/lib/error.js:59:11)
+4 error     at module.exports.sync (/Users/caiyaling/cyl/demo/custom-lint/node_modules/.pnpm/execa@5.0.0/node_modules/execa/index.js:186:17)
+4 error     at execSync (/Users/caiyaling/cyl/demo/custom-lint/node_modules/.pnpm/lerna@9.0.7_@types+node@26.1.1_bluebird@3.7.2/node_modules/lerna/dist/index.js:1810:31)
+4 error     at CreateCommand.gitConfig (/Users/caiyaling/cyl/demo/custom-lint/node_modules/.pnpm/lerna@9.0.7_@types+node@26.1.1_bluebird@3.7.2/node_modules/lerna/dist/index.js:7480:16)
+4 error     at CreateCommand.initialize (/Users/caiyaling/cyl/demo/custom-lint/node_modules/.pnpm/lerna@9.0.7_@types+node@26.1.1_bluebird@3.7.2/node_modules/lerna/dist/index.js:7411:50)

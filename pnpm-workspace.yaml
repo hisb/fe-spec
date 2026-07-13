@@ -1,0 +1,10 @@
+allowBuilds:
+  core-js: set this to true or false
+  esbuild: set this to true or false
+  fsevents: set this to true or false
+  highlight.js: set this to true or false
+  nx: set this to true or false
+  vuepress: set this to true or false
+
+packages:
+  - 'packages/*'
