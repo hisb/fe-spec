@@ -24,6 +24,7 @@
     "test": "node ./__tests__/stylelint-config.test.js"
   },
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com"
-  }
+    "registry": "https://registry.npmjs.org/"
+  },
+  "gitHead": "bd488ae6b6224373af95d3f2669486f7698fe3ed"
 }
