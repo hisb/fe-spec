@@ -1,0 +1,29 @@
+{
+  "name": "stylelint-config",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "homepage": "https://github.com/hisb/fe-spec#readme",
+  "bugs": {
+    "url": "https://github.com/hisb/fe-spec/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisb/fe-spec.git"
+  },
+  "license": "ISC",
+  "author": "caiyaling <973364812@qq.com>",
+  "main": "lib/stylelint-config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/stylelint-config.test.js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com"
+  }
+}

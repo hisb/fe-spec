@@ -48,6 +48,8 @@ importers:
         specifier: ^10.2.1
         version: 10.2.1
 
+  packages/stylelint-config: {}
+
 packages:
 
   '@babel/code-frame@7.29.7':
