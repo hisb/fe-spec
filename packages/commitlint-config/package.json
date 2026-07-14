@@ -1,5 +1,5 @@
 {
-  "name": "commitlint-config",
+  "name": "@yaling/commitlint-config",
   "version": "0.0.6",
   "description": "commitlint config",
   "homepage": "",
@@ -27,5 +27,5 @@
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^10.2.1"
   },
-  "gitHead": "1480a3ea563f9ddc40bc2b5c700849aa9ef57c07"
+  "gitHead": "e892b5d5f8411e9016befdace640f1cff2b5b02d"
 }

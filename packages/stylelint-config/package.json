@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config",
+  "name": "@yaling/stylelint-config",
   "version": "0.0.6",
   "description": "> TODO: description",
   "homepage": "https://github.com/hisb/fe-spec#readme",
@@ -27,5 +27,5 @@
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
-  "gitHead": "1480a3ea563f9ddc40bc2b5c700849aa9ef57c07"
+  "gitHead": "e892b5d5f8411e9016befdace640f1cff2b5b02d"
 }
