@@ -11,7 +11,7 @@ export default defineUserConfig({
       },
     },
   }),
-  base: '/custom-lint/',  
+  base: '/fe-spec/',  
   theme: defaultTheme({
     navbar: [
       {
