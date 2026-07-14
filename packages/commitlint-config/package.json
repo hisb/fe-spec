@@ -21,7 +21,8 @@
     "url": "git+https://github.com/hisb/fe-spec.git"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^10.2.1"
