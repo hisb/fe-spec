@@ -11,6 +11,7 @@ export default defineUserConfig({
       },
     },
   }),
+  base: '/custom-lint/',  
   theme: defaultTheme({
     navbar: [
       {
