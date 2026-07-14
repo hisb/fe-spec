@@ -1,6 +1,6 @@
 {
   "name": "@yaling/commitlint-config",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "commitlint config",
   "homepage": "",
   "license": "ISC",
