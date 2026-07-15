@@ -5,6 +5,7 @@ allowBuilds:
   fsevents: true
   highlight.js: true
   nx: true
+  unrs-resolver: true
   vuepress: true
 
 overrides:

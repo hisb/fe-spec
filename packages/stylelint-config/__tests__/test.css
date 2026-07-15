@@ -1,0 +1,9 @@
+.test {
+  /* 这样不会被lint校验拦截住 */
+}
+.body {
+  background-color: #000f;
+  background-color:#000;
+}
+
+

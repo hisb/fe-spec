@@ -1,0 +1,11 @@
+@mixin colorTag ($color1, $color2) {
+  color: $color1;
+  border-color: $color2;
+}
+
+.a {
+  width: $default-width /2;
+
+  @include colorTag(#abc,#bcd);
+  @unkown colorTag(#abc);
+}
